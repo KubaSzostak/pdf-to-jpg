@@ -1,0 +1,1 @@
+pdf-to-jpg.bat %1 "bin/gswin32c.exe"
