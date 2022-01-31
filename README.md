@@ -11,5 +11,5 @@ Drag and drop Your PDF file to _pdf-to-jpg.bat_
 
 
 * Tested with [Ghostscript](http://www.ghostscript.com/) 9.14 
-* [Download Ghostscrip](http://www.ghostscript.com/download/)
+* [Download Ghostscrip](https://ghostscript.com/releases/)
 * [License](http://www.ghostscript.com/download/gsdnld.html)
